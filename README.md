@@ -1,2 +1,2 @@
 # Koroko
-A speech recognition application 
+The learning of English language is an important education policy for school children as a basis for their future academic, social and professional development. With the advancements in modern technology, learning has taken a whole new dimension with the way teachers and school children go about their daily activities. This modern school life has presented the school children with an indescribable wealth of resources, information and knowledge. In Kenya, this will hopefully be encouraged by the introduction of laptops for school going children through the class one, one-laptop-per-child Government initiative. 

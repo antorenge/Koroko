@@ -1,0 +1,40 @@
+digraph "grammar.gdl" {
+rankdir = LR
+
+	node1 [ label="<sil>", color=green, shape=box ]
+
+	node1 -> node9 [ label=0.0 ]
+	node9 [ label="this", color=green, shape=box ]
+
+	node9 -> node10 [ label=0.0 ]
+	node10 [ label="is", color=green, shape=box ]
+
+	node10 -> node11 [ label=0.0 ]
+	node11 [ label="a", color=green, shape=box ]
+
+	node11 -> node12 [ label=0.0 ]
+	node12 [ label="", color=grey, shape=circle ]
+
+	node12 -> node14 [ label=0.0 ]
+	node14 [ label="cat", color=green, shape=box ]
+
+	node14 -> node2 [ label=0.0 ]
+	node2 [ label="<sil>", color=red, shape=box ]
+
+	node12 -> node15 [ label=0.0 ]
+	node15 [ label="dog", color=green, shape=box ]
+
+	node15 -> node2 [ label=0.0 ]
+	node12 -> node16 [ label=0.0 ]
+	node16 [ label="giraffe", color=green, shape=box ]
+
+	node16 -> node2 [ label=0.0 ]
+	node12 -> node17 [ label=0.0 ]
+	node17 [ label="butterfly", color=green, shape=box ]
+
+	node17 -> node2 [ label=0.0 ]
+	node12 -> node18 [ label=0.0 ]
+	node18 [ label="giraffe", color=green, shape=box ]
+
+	node18 -> node2 [ label=0.0 ]
+}

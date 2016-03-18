@@ -1,0 +1,1118 @@
+DEBUG 2015-02-17 05:12:56,041 [Thread-5] puzzle.Main - loading properties
+DEBUG 2015-02-17 05:12:56,041 [Thread-5] puzzle.Main - loading Window
+DEBUG 2015-02-17 05:13:25,017 [AWT-EventQueue-0] puzzle.GamePreferences - constructing new GamePreferences, sideLength:130, shadow:true, outline:true, producer:puzzle.edge.ModernEdgeProducer
+INFO  2015-02-17 05:13:32,798 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:0
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 374.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 588.0, 372.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 592.0, 371.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 596.0, 370.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 370.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 603.0, 370.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 607.0, 371.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 611.0, 373.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 615.0, 375.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 617.0, 378.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 620.0, 381.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 384.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 388.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 390.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 394.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 397.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 619.0, 401.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 616.0, 404.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 613.0, 406.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 610.0, 408.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 606.0, 409.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 602.0, 410.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 410.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 595.0, 410.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 591.0, 409.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 407.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 583.0, 405.0-type:1
+INFO  2015-02-17 05:13:32,845 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 402.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 455.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - tried to connect LEFT-RIGHT or TOP-BOTTOM that's invalid
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:0
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 582.0, 242.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 579.0, 240.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 575.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 571.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 568.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 564.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 560.0, 239.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 557.0, 241.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 554.0, 244.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 551.0, 247.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 549.0, 250.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 254.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 258.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 261.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 265.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 548.0, 269.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 550.0, 272.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 553.0, 275.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 556.0, 278.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 559.0, 280.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 563.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 567.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 570.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 574.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 578.0, 281.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 279.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 584.0, 276.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 273.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - tried to connect LEFT-RIGHT or TOP-BOTTOM that's invalid
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:0
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:32,861 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:0
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 453.0, 274.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 451.0, 277.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 448.0, 280.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 445.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 442.0, 283.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 439.0, 283.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 437.0, 283.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 434.0, 282.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 431.0, 281.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 278.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 426.0, 276.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 424.0, 272.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 423.0, 268.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 264.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 260.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 257.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 253.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 424.0, 249.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 425.0, 246.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 427.0, 243.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 430.0, 240.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 433.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 436.0, 237.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 439.0, 237.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 441.0, 237.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 444.0, 238.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 447.0, 239.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 450.0, 242.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 455.0-type:0
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 464.0, 403.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 462.0, 406.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 459.0, 409.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 456.0, 411.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 452.0, 412.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 449.0, 412.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 446.0, 412.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 442.0, 411.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 439.0, 410.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 436.0, 408.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 433.0, 405.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 431.0, 402.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 429.0, 398.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 395.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 391.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 388.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 384.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 430.0, 380.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 432.0, 377.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 434.0, 374.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 437.0, 371.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 440.0, 369.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 444.0, 368.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 447.0, 368.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 450.0, 368.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 454.0, 369.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 457.0, 370.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 460.0, 372.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:1
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:32,876 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:2, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:13:32,892 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:13:32,907 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:0
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 374.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 588.0, 372.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 592.0, 371.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 596.0, 370.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 370.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 603.0, 370.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 607.0, 371.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 611.0, 373.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 615.0, 375.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 617.0, 378.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 620.0, 381.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 384.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 388.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 390.0-type:1
+INFO  2015-02-17 05:13:35,792 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 394.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 397.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 619.0, 401.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 616.0, 404.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 613.0, 406.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 610.0, 408.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 606.0, 409.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 602.0, 410.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 410.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 595.0, 410.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 591.0, 409.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 407.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 583.0, 405.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 402.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 455.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:0
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 582.0, 242.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 579.0, 240.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 575.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 571.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 568.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 564.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 560.0, 239.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 557.0, 241.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 554.0, 244.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 551.0, 247.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 549.0, 250.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 254.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 258.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 261.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 265.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 548.0, 269.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 550.0, 272.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 553.0, 275.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 556.0, 278.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 559.0, 280.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 563.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 567.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 570.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 574.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 578.0, 281.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 279.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 584.0, 276.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 273.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:0
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:0
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 453.0, 274.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 451.0, 277.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 448.0, 280.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 445.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 442.0, 283.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 439.0, 283.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 437.0, 283.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 434.0, 282.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 431.0, 281.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 428.0, 278.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 426.0, 276.0-type:1
+INFO  2015-02-17 05:13:35,807 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 424.0, 272.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 423.0, 268.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 264.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 260.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 257.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 422.0, 253.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 424.0, 249.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 425.0, 246.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 427.0, 243.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 430.0, 240.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 433.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 436.0, 237.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 439.0, 237.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 441.0, 237.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 444.0, 238.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 447.0, 239.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 450.0, 242.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 375.0, 322.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 372.0, 320.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 370.0, 317.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 368.0, 314.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 367.0, 310.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 367.0, 307.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 367.0, 304.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 368.0, 301.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 370.0, 298.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 372.0, 295.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 375.0, 292.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 378.0, 290.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 382.0, 289.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 386.0, 288.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 390.0, 288.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 393.0, 288.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 397.0, 289.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 401.0, 290.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 405.0, 292.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 408.0, 294.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 410.0, 297.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 412.0, 300.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 413.0, 304.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 413.0, 307.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 413.0, 310.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 412.0, 313.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 410.0, 316.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 408.0, 319.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 455.0-type:0
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+INFO  2015-02-17 05:13:35,823 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:13:35,839 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:0
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 374.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 588.0, 372.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 592.0, 371.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 596.0, 370.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 370.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 603.0, 370.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 607.0, 371.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 611.0, 373.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 615.0, 375.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 617.0, 378.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 620.0, 381.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 384.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 388.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 390.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 622.0, 394.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 621.0, 397.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 619.0, 401.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 616.0, 404.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 613.0, 406.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 610.0, 408.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 606.0, 409.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 602.0, 410.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 599.0, 410.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 595.0, 410.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 591.0, 409.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 407.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 583.0, 405.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 402.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 455.0-type:1
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:39,228 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:0
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 582.0, 242.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 579.0, 240.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 575.0, 238.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 571.0, 238.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 568.0, 238.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 564.0, 238.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 560.0, 239.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 557.0, 241.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 554.0, 244.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 551.0, 247.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 549.0, 250.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 254.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 258.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 261.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 265.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 548.0, 269.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 550.0, 272.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 553.0, 275.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 556.0, 278.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 559.0, 280.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 563.0, 282.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 567.0, 282.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 570.0, 282.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 574.0, 282.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 578.0, 281.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 279.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 584.0, 276.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 273.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:5, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:0
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:0
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 455.0-type:0
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+INFO  2015-02-17 05:13:39,243 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:13:39,259 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 325.0-type:0
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 455.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:0
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 639.0, 326.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 637.0, 328.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 635.0, 330.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 633.0, 333.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 632.0, 336.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 632.0, 339.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 632.0, 341.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 632.0, 344.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 633.0, 347.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 635.0, 350.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 637.0, 352.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 640.0, 354.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 643.0, 356.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 646.0, 357.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 649.0, 357.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 651.0, 357.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 655.0, 357.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 658.0, 356.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 661.0, 354.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 663.0, 352.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 665.0, 350.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 667.0, 347.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 668.0, 344.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 668.0, 341.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 668.0, 339.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 668.0, 336.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 667.0, 333.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 665.0, 330.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 325.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:0
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 582.0, 242.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 579.0, 240.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 575.0, 238.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 571.0, 238.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 568.0, 238.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 564.0, 238.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 560.0, 239.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 557.0, 241.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 554.0, 244.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 551.0, 247.0-type:1
+INFO  2015-02-17 05:13:43,311 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 549.0, 250.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 254.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 258.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 261.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 547.0, 265.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 548.0, 269.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 550.0, 272.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 553.0, 275.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 556.0, 278.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 559.0, 280.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 563.0, 282.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 567.0, 282.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 570.0, 282.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 574.0, 282.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 578.0, 281.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 581.0, 279.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 584.0, 276.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 273.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 325.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:30
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:29
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:28
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:27
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:26
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:25
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:24
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:23
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:22
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:21
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:20
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:19
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:18
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:17
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:16
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:15
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:14
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:13
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:12
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:11
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:10
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:9
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:8
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:7
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:6
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:5
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:4
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:3
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:2
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:0
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:3, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:0
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 455.0-type:0
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:13:43,327 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 325.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 455.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 195.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 325.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 715.0, 195.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 585.0, 195.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 195.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 195.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 455.0-type:0
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:13:49,376 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+DEBUG 2015-02-17 05:14:28,780 [Thread-23] puzzle.Main - loading properties
+DEBUG 2015-02-17 05:14:28,780 [Thread-23] puzzle.Main - loading Window
+DEBUG 2015-02-17 05:14:41,256 [AWT-EventQueue-0] puzzle.GamePreferences - constructing new GamePreferences, sideLength:130, shadow:true, outline:true, producer:puzzle.edge.ModernEdgeProducer
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:2, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:2, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:4, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 195.0, 325.0-type:0
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:4, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:14:46,549 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:14:46,559 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:2, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:2, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:1
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 195.0, 325.0-type:0
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:14:48,758 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:14:48,774 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:6, Type:BOTTOM, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:2, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:2, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:14:59,799 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:2, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:6, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:1
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 195.0, 325.0-type:0
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:0, Type:RIGHT, Offset:Offset: x->65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:15:09,810 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:15:09,826 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:0
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 455.0, 325.0-type:1
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 195.0, 325.0-type:0
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 325.0, 325.0-type:1
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:15:13,909 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+DEBUG 2015-02-17 05:15:59,488 [Thread-36] puzzle.Main - loading properties
+DEBUG 2015-02-17 05:15:59,488 [Thread-36] puzzle.Main - loading Window
+DEBUG 2015-02-17 05:16:07,808 [AWT-EventQueue-0] puzzle.GamePreferences - constructing new GamePreferences, sideLength:130, shadow:true, outline:true, producer:puzzle.edge.ModernEdgeProducer
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 587.0, 671.0-type:0
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 717.0, 671.0-type:1
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:5, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:5, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:16:19,764 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:0
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 1014.0, 410.0-type:1
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:0
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:1
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:2, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:2, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:4, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:4, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:16:25,220 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:0
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 1014.0, 410.0-type:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:0
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 624.0, 410.0-type:0
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,360 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:4, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:28,375 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:4, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:3, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+INFO  2015-02-17 05:16:28,375 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:16:28,375 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:0
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 1014.0, 410.0-type:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:0
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 624.0, 410.0-type:0
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:1, Type:TOP, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:0, Type:LEFT, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:16:31,210 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version
+INFO  2015-02-17 05:16:33,562 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - buildShape - advanced version
+DEBUG 2015-02-17 05:16:33,562 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - going to find an outline
+DEBUG 2015-02-17 05:16:33,562 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,562 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,562 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:0
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 1014.0, 410.0-type:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:0
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 884.0, 410.0-type:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - attempting to reverse a shape
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 624.0, 410.0-type:0
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - instantiting a PathSegment: 754.0, 410.0-type:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:1
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.ShapeUtil - i:0
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->-65 y->0 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+DEBUG 2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found following pair current:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true, next:puzzle.edge.Edge, EdgePairNumber:-1, Type:NULL, Offset:Offset: x->0 y->-65 virgine: true, open?true
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - found the endpoint - one shape is done!
+INFO  2015-02-17 05:16:33,578 [AWT-EventQueue-0] puzzle.pieces.MultiPiece - end buildShape - advanced version

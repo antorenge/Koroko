@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+public <animals> = (This is a ) ( Cat | Dog | Giraffe | Butterfly | Giraffe );
